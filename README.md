@@ -40,15 +40,11 @@
 - Good practices and patterns — especially in **Vue**  
 - Advanced UX motion design and transitions  
 - Performance-driven frontend architecture  
-- Component libraries and design systems  
-
----
-
-## 📊 GitHub Stats
-![Enol's GitHub stats](https://github-readme-stats.vercel.app/api?username=enolgr&show_icons=true&theme=transparent)
+- Component libraries and design systems
 
 ---
 
 ## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/enolgr)
-[![Website](https://img.shields.io/badge/enol.dev-000?style=flat&logo=vercel)](https://enol.dev)
+## 🌍 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/enolgonzalez/)
+[![Website](https://img.shields.io/badge/enol.dev-000?style=flat)](https://enol.dev)
