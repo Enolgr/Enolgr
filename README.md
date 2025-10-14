@@ -45,6 +45,5 @@
 ---
 
 ## 🌍 Connect with me
-## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/enolgonzalez/)
 [![Website](https://img.shields.io/badge/enol.dev-000?style=flat)](https://enol.dev)
